@@ -47,7 +47,7 @@ Key variables analyzed:
 
 ## Data Structure
 
-The dataset (`data.xlsx`) should have columns matching those in `demographic_cols` list, such as:
+The dataset has columns such as:
 - "Gender"
 - "Age Group"
 - "Educational level"
